@@ -1,0 +1,56 @@
+# Unity specific
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / Visual Studio Code specific
+.vscode/
+*.sln
+*.suo
+*.userprefs
+/*.csproj
+/*.pidb
+/*.user
+/*.userprefs
+/*.sln.docstates
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Unity generated meta files
+/*.pidb.meta
+
+# Unity generated file on crash reports
+sysinfo.txt
+
+# Unity Package Manager
+/PackageManager/
+/packages/
+
+# Rider (IDE) specific
+.idea/
+*.csproj
+*.sln.iml
+
+# External tool files
+ReSharper/
+ReSharper.PersistedItems/
+*_Resharper*
+
+# Rider (IDE) specific
+.idea/
+
+# Rider (IDE) + Unity
+.idea/
+*.csproj
+*.sln.iml
+.idea/workspace.xml
+
+# Playmode test results
+TestResults/
